@@ -3,9 +3,9 @@
 In this interactive Dashboard i explored the 96 jerseys from the FIFA World Cup 2026. All 48 nations have different brand, primary colors and Home and Away Jerseys. 
 
 ## Dashboard Preview
+<img width="701" alt="Preview_JerseyAnalysis_FIFA2026" src="https://github.com/user-attachments/assets/720d2fc6-9639-4e4b-9a19-ec4fb10e6c01">
 
-![Tableau Dashboard Preview](<img width="701" height="646" alt="Preview_JerseyAnalysis_FIFA2026" src="https://github.com/user-attachments/assets/3e3b5d49-efec-4aa9-b5a1-b192c850773c" />
-)
+---
 
 **[View the Interactive Tableau Dashboard Here](https://public.tableau.com/app/profile/roger.michel/viz/FIFAWorldCup2026JerseysAnalysis/WorldCup2026Jerseys)**
 
